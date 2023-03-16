@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "discretecdAlgorithm"]
+	path = discretecdAlgorithm
+	url = https://github.com/gujyjean/discretecdalgorithm
+	shallow = true
+	registered = true
